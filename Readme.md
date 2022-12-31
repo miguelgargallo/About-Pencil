@@ -1,5 +1,7 @@
 # Pencil Works LLC
 
+<img width="640" alt="2023-01-01-00-24-56-About--Pencil" src="https://user-images.githubusercontent.com/5947268/210157509-f3fcef5e-c590-43e2-8e3d-d766c58e47ab.png">
+
 - [Pencil Works LLC](#pencil-works-llc)
   - [About Pencil Works LLC](#about-pencil-works-llc)
     - [Services](#services)
